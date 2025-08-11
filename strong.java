@@ -1,4 +1,4 @@
-public class Strong
+public class strong
 {
 public static int calculateFactorial(int n) 
 {
